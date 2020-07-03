@@ -369,3 +369,13 @@ span.typed-cursor.typed-cursor--blink, span.typed-cursor {
   }
 }
 
+#card-with-link {
+  color:inherit;
+  text-decoration:none;
+}
+
+#card-with-link:hover {
+  color:#038046;
+  text-decoration:none;
+}
+
